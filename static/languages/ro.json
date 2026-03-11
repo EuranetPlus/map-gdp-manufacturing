@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de important este sectorul manufacturier pentru PIB-ul UE?",
+  "subtitle": "În ultimii zece ani, ponderea activității industriale în PIB-ul UE a scăzut de la 15,2% la 14,3%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Valoarea adăugată brută și venitul din activitatea economică prelucrătoare. (NACE Rev.2)",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "din PIB",
   "tooltipExtraInfoLabel": "Click aici"
 }
