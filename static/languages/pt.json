@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual a importância do setor manufatureiro para o PIB da UE?",
+  "subtitle": "Nos últimos dez anos, a participação da atividade industrial no PIB da UE caiu de 15,2% para 14,3%.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Valor bruto adicionado e rendimento da atividade econômica industrial. (NACE Rev.2)",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "do PIB",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
